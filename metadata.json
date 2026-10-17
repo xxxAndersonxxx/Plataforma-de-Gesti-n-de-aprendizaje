@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse LMS - Plataforma Académica",
+  "description": "Sistema de gestión de aprendizaje integral (LMS) con navegación fluida, centro de comunicación docente-alumno, calendario académico interactivo y aulas virtuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
